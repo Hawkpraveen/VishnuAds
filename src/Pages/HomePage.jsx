@@ -29,7 +29,7 @@ const HomePage = () => {
         </h1>
         <Card className="w-fit h-1/3  hover:scale-105 hover:transition">
           <img
-            src="public\student.jpg"
+            src="student.jpg"
             alt=""
             className="rounded-lg h-52 w-72"
           />
