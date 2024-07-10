@@ -7,7 +7,7 @@ const HomePage = () => {
       {/* hero section */}
       <div className="hero-section w-full  bg-transparent mb-10">
         <div className="w-full sm:w-2/3  items-center h-full sm:px-40 sm:py-52 hero-text flex flex-wrap">
-          <h1 className=" font-semibold text-xl sm:text-3xl text-neutral-100 ">
+          <h1 className=" font-semibold text-xl sm:text-3xl text-neutral-800 ">
             Learn Digital Marketing <br />
             with us
           </h1>
