@@ -36,15 +36,15 @@ const HomePage = () => {
           <h2 className="text-xl font-medium mx-auto">Students</h2>
         </Card>
         <Card className="w-fit h-1/3 hover:scale-105 hover:transition">
-          <img src="public\img2.webp" alt="" className="rounded-lg w-72 h-52" />
+          <img src="img2.webp" alt="" className="rounded-lg w-72 h-52" />
           <h2 className="text-xl font-medium mx-auto">Entrepreneurs</h2>
         </Card>
         <Card className="w-fit h-1/3 hover:scale-105 hover:transition">
-          <img src="public\img3.png" alt="" className="rounded-lg w-72 h-52" />
+          <img src="img3.png" alt="" className="rounded-lg w-72 h-52" />
           <h2 className="text-xl font-medium mx-auto">free lancers</h2>
         </Card>
         <Card className="w-fit h-1/3 hover:scale-105 hover:transition">
-          <img src="public\img4.jpg" alt="" className="rounded-lg w-72 h-52" />
+          <img src="img4.jpg" alt="" className="rounded-lg w-72 h-52" />
           <h2 className="text-xl font-medium mx-auto">job seekers</h2>
         </Card>
       </div>
@@ -58,20 +58,20 @@ const HomePage = () => {
         </p>
         <ul className="text-md sm:text-xl font-bold  text-center w-full pb-5 ">
           <li className="p-2">
-            <img src="public\sem.png" alt="" className="w-7 h-6 inline mr-3 " />
+            <img src="sem.png" alt="" className="w-7 h-6 inline mr-3 " />
             SEM
           </li>
           <li className="p-2">
-            <img src="public\seo.avif" alt="" className="w-6 h-6 inline mr-3" />
+            <img src="seo.avif" alt="" className="w-6 h-6 inline mr-3" />
             SEO
           </li>
           <li className="p-2">
-            <img src="public\smm.jpeg" alt="" className="w-7 h-6 inline mr-4" />
+            <img src="smm.jpeg" alt="" className="w-7 h-6 inline mr-4" />
             SMM
           </li>
           <li className="p-2">
             <img
-              src="public\email.jpg"
+              src="email.jpg"
               alt=""
               className="w-7 h-6 inline mr-4"
             />
@@ -95,27 +95,27 @@ const HomePage = () => {
         </p>
         <div className="flex flex-wrap justify-evenly">
           <Card className="w-full  hover:scale-105 hover:transition sm:w-1/4 h-1/2 mb-4">
-            <img src="public/ui.webp" alt="" />
+            <img src="ui.webp" alt="" />
             <h1 className="text-center font-medium">UI/UX Desgin</h1>
-            <img src="public/star.png" alt="" className="h-5 w-fit mx-auto" />
+            <img src="star.png" alt="" className="h-5 w-fit mx-auto" />
             <button className="rounded-lg border-2 w-fit mx-auto p-2 px-9 bg-black bg-opacity-70 text-neutral-300">
               {" "}
               Learn More
             </button>
           </Card>
           <Card className="w-full  hover:scale-105 hover:transition sm:w-1/4 h-1/2 mb-4">
-            <img src="public/ui.webp" alt="" />
+            <img src="ui.webp" alt="" />
             <h1 className="text-center font-medium">Atificial Intelligence</h1>
-            <img src="public/star.png" alt="" className="h-5 w-fit mx-auto" />
+            <img src="star.png" alt="" className="h-5 w-fit mx-auto" />
             <button className="rounded-lg border-2 w-fit mx-auto p-2 px-9 bg-black bg-opacity-70 text-neutral-300">
               {" "}
               Learn More
             </button>
           </Card>
           <Card className="w-full  hover:scale-105 hover:transition sm:w-1/4 h-1/2 mb-4">
-            <img src="public/ui.webp" alt="" />
+            <img src="ui.webp" alt="" />
             <h1 className="text-center font-medium">Bootstrap</h1>
-            <img src="public/star.png" alt="" className="h-5 w-fit mx-auto" />
+            <img src="star.png" alt="" className="h-5 w-fit mx-auto" />
             <button className="rounded-lg border-2 w-fit mx-auto p-2 px-9 bg-black bg-opacity-70 text-neutral-300">
               {" "}
               Learn More
@@ -144,7 +144,7 @@ const HomePage = () => {
           </li>
         </ul>
         <Card className="flex relative">
-          <img src="public/img.jpeg" alt="" className="opacity-70" />
+          <img src="img.jpeg" alt="" className="opacity-70" />
           <div class=" absolute inset-14 flex items-center justify-center sm:absolute sm:inset-0">
             <h2 class="text-3xl font-bold">Our Extensive Offerings</h2>
           </div>
